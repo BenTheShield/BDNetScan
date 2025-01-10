@@ -1,0 +1,6 @@
+anonymous
+ftp
+admin
+user
+guest
+root
