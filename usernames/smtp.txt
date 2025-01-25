@@ -1,5 +1,0 @@
-postmaster
-admin
-root
-mail
-user
